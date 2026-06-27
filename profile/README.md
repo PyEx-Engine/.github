@@ -12,14 +12,14 @@ PyEx lets players install mods into any PyGame game without recompiling it, and 
 
 | Repo | Description |
 |---|---|
-| [PyEx](https://github.com/PyExEngine/PyEx) | The core mod loader |
+| [PyEx](https://github.com/PyEx-Engine/PyEx) | The core mod loader |
 
 ---
 
 ## Quick start
 
 Drop `pyex/` into your project and add 3 lines to your game loop.  
-Full documentation → **[github.com/PyExEngine/PyEx](https://github.com/PyExEngine/PyEx)**
+Full documentation → **[github.com/PyExEngine/PyEx](https://github.com/PyEx-Engine/PyEx)**
 
 ---
 
